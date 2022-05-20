@@ -1,5 +1,1 @@
-yccʱ����ģ�
-yyccxiangyao
-xxaSdSAd
-xxxxx
-xiaosiwole 
+git init
